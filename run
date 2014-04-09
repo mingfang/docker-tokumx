@@ -1,1 +1,1 @@
-docker run -d -t -P ssh
+docker run -p 27017:27017 -p 28017:28017 -d tokumx
